@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ArmstrongSay_s_Bulma">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ArmstrongSay_s_Bulma.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
